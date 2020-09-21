@@ -48,3 +48,12 @@ chmod +x ./kubectl
 sudo mv ./kubectl /usr/local/bin/kubectl
 kubectl version --client
 ```
+
+----------------------------------------------
+
+Learning materials
+=========================
+
+1. Kube Basics: https://egghead.io/lessons/docker-wtf-is-kubernetes-k8s
+2. Deployment: https://egghead.io/lessons/egghead-deploy-and-access-the-kubernetes-dashboard
+3. Interactive kube playground: https://www.katacoda.com/courses/kubernetes/playground
